@@ -119,4 +119,4 @@ WantedBy=multi-user.target
 systemctl enable smbd-start.service
 systemctl start smbd-start.service
 
-t00H4rdT0C4ck1337
+# :)
